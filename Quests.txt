@@ -1,0 +1,12 @@
+Player gets a quest to kill a super monster not found with the normal monsters,
+he must kill monsters and collect objects to create a potion to poor on the portal,
+when that is done and he moves into the portal he just covered with the potion he will be teleported to a map that contains that monster.
+
+A boss monster that when it appears on a map the player gets a warning that says "Your presence has been felt".
+This monster will travel toward the player every turn even if the player has not discovered him yet.
+After defeating the monster you can trade his head in for exp or gold at the shop as a reward.
+
+A boss monster that cannot be defeated unless the player first finds and harvests an herb that will weaken the monster so it can be killed.
+When the monster is created on a map there will also be 2-4 herb plants randomly placed on the map for the player to find.
+
+Player finds a "damsel in distress" and needs to take her to the hut store for safety, the girl will follow the player until he hits the hut.

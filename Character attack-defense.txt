@@ -1,0 +1,55 @@
+Archer
+Primary stat: dex
+secondary:    str
+attack:   Math.floor((parseInt(player['dex'])/3)+(parseInt(player['str'])/4));
+mattack:  round($intel/3);
+defense:  round((($maxhp/2)+$str)/3);
+mdefense: round($intel/3);
+
+Cleric
+Primary stat: int
+Secondary:    mana
+attack:   round($str/3);
+mattack:  round(($intel/3)+($mana/4));
+defense:  round($maxhp/3);
+mdefense: round(($intel+$mana)/3);
+
+Knight
+Primary stat: str
+Secondary:    dex
+attack:   Math.floor((parseInt(player['str'])/3)+(parseInt(player['dex'])/4));
+mattack:  Math.floor(parseInt(player['intel'])/3);
+defense:  Math.floor(((parseInt(player['max_hp'])/3)+player['str']))/3);
+mdefense: round($intel/3);
+
+Mage
+Primary stat: int
+Secondary:    mana
+attack:   round($str/3);
+mattack:  round(($intel/3)+($mana/4));
+defense:  round($maxhp/3);
+mdefense: round(($intel+$mana)/3);
+
+Necro
+Primary stat: int
+Secondary:    mana
+attack:   round($str/3);
+mattack:  round(($intel/3)+($mana/4));
+defense:  round($maxhp/3);
+mdefense: round(($intel+$mana)/3);
+
+Paladin
+Primary stat: str
+Secondary:    int
+attack:   round(($str/3)+($dex/4));
+mattack:  round(($intel/3)+($mana/4));
+defense:  round((($maxhp/2)+$str)/3);
+mdefense: round(($intel+$mana)/3);
+
+Rogue
+Primary stat: dex
+Secondary:    str
+attack:   round(($dex/3)+($str/4));
+mattack:  round($intel/3);
+defense:  round((($maxhp/2)+$str)/3);
+mdefense: round($intel/3);

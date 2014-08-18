@@ -1,0 +1,65 @@
+After the player hits level 2 every once in a while when the player goes into a new map a pop up will appear saying
+"your presence has been felt!". A powerful black monster will be on the map and take one step closer to you every turn
+and the only way to kill it will be to find an herb on the map and drop that herb on the monster and then it can be killed.
+
+After the fourth time, or so, that happens the player will notice a symbol on the monster that is the symbol of the game.
+The player sees a pop up saying he should ask around about this symbol.
+the next time the player enters the castle the innkeeper will instantly appear and say that his partner the blacksmith was just
+kipnapped by some black monsters and the only way to find them is to collect items from creatures and plants to make a potion
+to sprinkle onto the portal and then the portal will take you to the monsters.
+
+Once they find the monsters the partner will tell the player that he was kidnapped because he once worked as a blacksmith in a
+black tower and a prince of that land told him to create a powerful indestructable breastplate for the kings army that will turn
+the person who wore it invisible and cause them to do double the damage that they would normally inflict in combat.
+But once the blacksmith created it he learned that the prince was going to use it to overthrow the king and take over the land.
+The blacksmith was loyal to the king and ran away hiding the breastplate. The blacksmith knew that he would eventually be found
+and tortured until he gave up where he hid the breastplate so he had his memory blanked by a wizard so even when he was caught he
+would not be able to tell where the breastplate was.
+The player then recieves coordinates to where the wizard lives and clicks on the portal to go there.
+
+When the player gets to the map he will be attacked by an invisible target that will beat him down to one hit point.
+Once he is almost dead the wizard will appear saying the player is strong but not strong enough. The wizard then says that the
+player might be useful to him and makes the player one of his generals in his future army and needs the player to build him a city to
+help him take over the land.
+The player gets a quest to build 4 buildings and one of them needs to be a house.
+
+The wizard tells the player that he will meet him at the players house after the fourth building is made.
+
+After building 3 buildings the blacksmith hears what happened with the wizard and wants to speak to the player as soon as possible.
+The blacksmith tells the player that the magic that holds the breastplate together has a flaw that he could not fix, if the
+breastplate comes in contact with a hops, water and salt mixture its abilities fade away until the mixture is washed off.
+So beer with salt in it should do the trick, the blacksmith give the mixture to the player.
+
+When the player creates the fourth building the wizard will show up when the player enters his house.
+They will talk and the option to throw the mixture on the wizard will come up and when the player does they will appear right outside
+the house and fight.
+
+When the player wins he will get the breastplate but it will need to be cleaned by the blacksmith, this will take 1 hour (real time).
+
+All this time the player should still be being attacked by the black monsters.
+
+Once its cleaned the player picks up the breastplate only to find that the mixture that was thrown onto it had a worse affect than
+originally thought, the breastplate no longer turns the person invisible. The blacksmith could fix it but the cost would be around
+7,000 gold. (the player can chose if they want this or not)
+
+The blacksmith has a potion made for the player that he can put on the portal and there will be a 20% chance to get to the map that
+has the black castle on it because the black castle teleports to a new location every 24 hours and it is difficult to pinpoint the next
+location.
+
+When the player finally finds the map it will only contain black monsters in it instead of the normal random monsters.
+
+when the player finds the castle there will be a custom map that looks like the inside of a castle and it will have black monsters in it.
+
+When the throne room is found the player encounters the Princes advisor sitting on the throne and tells the player that the player is
+actually the prince and the advisor cast a spell on the player to wipe his memory and power and alter the princes appearance because it
+was the Princes plan to secretly infultrate the surrounding area to try to find the blacksmith and the breastplate. The prince had to
+have his memory and power taken away because if the prince ever ran into a wizard they would be able to detect his power and read his
+mind and it would give him away.
+
+But soon after the advisor erased the princes memory and power he realized that this was his chance to easily take the throne. The advisor
+was the one that was sending the black monsters to find the prince and kill him and it was him who tried to kidnap the blacksmith to try
+to find the breastplate.
+The advisor and the player now battle.
+
+When the player wins, the black monsters will no longer attack him.
+Since the advisor was the one who removed the princes power and memories the prince will never return to normal.
