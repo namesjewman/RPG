@@ -10,3 +10,5 @@ A boss monster that cannot be defeated unless the player first finds and harvest
 When the monster is created on a map there will also be 2-4 herb plants randomly placed on the map for the player to find.
 
 Player finds a "damsel in distress" and needs to take her to the hut store for safety, the girl will follow the player until he hits the hut.
+
+test
